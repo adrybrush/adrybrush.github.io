@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on a dry brush</title>
+    <link>https://adrybrush.github.io/post/</link>
+    <description>Recent content in Posts on a dry brush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>adrybrush@gmail.com</managingEditor>
+    <webMaster>adrybrush@gmail.com</webMaster>
+    <lastBuildDate>Fri, 12 Aug 2016 05:45:48 -0400</lastBuildDate>
+    <atom:link href="https://adrybrush.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Enterprise</title>
+      <link>https://adrybrush.github.io/post/the_enterprise/</link>
+      <pubDate>Fri, 12 Aug 2016 05:45:48 -0400</pubDate>
+      <author>adrybrush@gmail.com</author>
+      <guid>https://adrybrush.github.io/post/the_enterprise/</guid>
+      <description>&lt;p&gt;This is my first post~ I&amp;rsquo;m hoping this blog will serve as a place for me to practice my writing and upload stuff I&amp;rsquo;ve been drawing. Recently I&amp;rsquo;ve been drawing ships from Star Trek.&lt;/p&gt;
+
+&lt;p&gt;For people unfamiliar with Star Trek, this drawing is of the Enterprise-D made famous in Star Trek The Next Generation and blown up in a movie called Star Trek Generations&amp;hellip; It was captained by Jean-Luc Picard a Frenchman with a British accent.&lt;/p&gt;
+
+&lt;p&gt;This piece was draw in a notebook using a pencil. Later it was traced with a pen and painted with water color and detailed with color pencil. Much more exciting to do than to read about, let me know what you think~&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://adrybrush.github.io/images/enterprise-d.jpg&#34; alt=&#34;enterprise-d&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
