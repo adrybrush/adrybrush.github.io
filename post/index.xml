@@ -8,8 +8,20 @@
     <language>en-us</language>
     <managingEditor>adrybrush@gmail.com</managingEditor>
     <webMaster>adrybrush@gmail.com</webMaster>
-    <lastBuildDate>Fri, 12 Aug 2016 05:45:48 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 09:40:28 -0400</lastBuildDate>
     <atom:link href="https://adrybrush.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Star Trek VI</title>
+      <link>https://adrybrush.github.io/post/star_trek_vi/</link>
+      <pubDate>Sat, 13 Aug 2016 09:40:28 -0400</pubDate>
+      <author>adrybrush@gmail.com</author>
+      <guid>https://adrybrush.github.io/post/star_trek_vi/</guid>
+      <description>&lt;p&gt;The Enterprise and Klingon Battle Cruiser from &lt;em&gt;Star Trek VI: The Undiscovered Country.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://adrybrush.github.io/images/star-trek-vi.jpg&#34; alt=&#34;star-trek-vi&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Enterprise</title>
