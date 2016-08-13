@@ -317,7 +317,18 @@ footer .theme-by {
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 }
+
+.post-preview .preview-table {
+    min-width: 300px;    
+    vertical-align: top;
+}
+
+.post-preview .preview-tableC2 {
+    vertical-align: text-top;
+}
+
 .post-preview .post-read-more {
   font-weight: 800;
 }
